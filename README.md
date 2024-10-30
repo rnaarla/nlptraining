@@ -1,4 +1,4 @@
-# Comprehensive Guide to Training Large Language Models with NVIDIA NeMo and DeepSpeed
+# Guide to Training Large Language Models with NVIDIA NeMo and DeepSpeed
 
 ## Table of Contents
 1. Environment Setup and Prerequisites
